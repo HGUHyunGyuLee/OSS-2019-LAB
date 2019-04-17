@@ -36,3 +36,8 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+
+ef foo():
+    if not bar:
+        return True
